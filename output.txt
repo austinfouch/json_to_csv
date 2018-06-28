@@ -1,0 +1,58 @@
+house,name,city,years
+House of Wessex,Edmund lronside,United Kingdom,1016
+House of Denmark,Cnut,United Kingdom,1016-1035
+House of Denmark,Harold I Harefoot,United Kingdom,1035-1040
+House of Denmark,Harthacanut,United Kingdom,1040-1042
+House of Wessex,Edward the Confessor,United Kingdom,1042-1066
+House of Wessex,Harold II,United Kingdom,1066
+House of Normandy,William I,United Kingdom,1066-1087
+House of Normandy,William II,United Kingdom,1087-1100
+House of Normandy,Henry I,United Kingdom,1100-1135
+House of Blois,Stephen,United Kingdom,1135-1154
+House of Angevin,Henry II,United Kingdom,1154-1189
+House of Angevin,Richard I,United Kingdom,1189-1199
+House of Angevin,John,United Kingdom,1199-1216
+House of Plantagenet,Henry III,United Kingdom,1216-1272
+House of Plantagenet,Edward I,United Kingdom,1272-1307
+House of Plantagenet,Edward II,United Kingdom,1307-1327
+House of Plantagenet,Edward III,United Kingdom,1327-1377
+House of Plantagenet,Richard II,United Kingdom,1377-1399
+House of Lancaster,Henry IV,United Kingdom,1399-1413
+House of Lancaster,Henry V,United Kingdom,1413-1422
+House of Lancaster,Henry VI,United Kingdom,1422-1461
+House of York,Edward IV,United Kingdom,1461-1483
+House of York,Edward V,United Kingdom,1483
+House of York,Richard III,United Kingdom,1483-1485
+House of Tudor,Henry VII,United Kingdom,1485-1509
+House of Tudor,Henry VIII,United Kingdom,1509-1547
+House of Tudor,Edward VI,United Kingdom,1547-1553
+House of Tudor,Mary I,United Kingdom,1553-1558
+House of Tudor,Elizabeth I,United Kingdom,1558-1603
+House of Stuart,James I,United Kingdom,1603-1625
+House of Stuart,Charles I,United Kingdom,1625-1649
+Commonwealth,Commonwealth,United Kingdom,1649-1653
+Commonwealth,Oliver Cromwell,United Kingdom,1653-1658
+Commonwealth,Richard Cromwell,United Kingdom,1658-1659
+House of Stuart,Charles II,United Kingdom,1660-1685
+House of Stuart,James II,United Kingdom,1685-1688
+House of Orange,William III,United Kingdom,1689-1694
+House of Stuart,Anne,United Kingdom,1702-1714
+House of Hanover,George I,United Kingdom,1714-1727
+House of Hanover,George II,United Kingdom,1727-1760
+House of Hanover,George III,United Kingdom,1760-1820
+House of Hanover,George IV,United Kingdom,1820-1830
+House of Hanover,William IV,United Kingdom,1830-1837
+House of Hanover,Victoria,United Kingdom,1837-1901
+House of Saxe-Coburg-Gotha,Edward VII,United Kingdom,1901-1910
+House of Windsor,George V,United Kingdom,1910-1936
+House of Windsor,Edward VIII,United Kingdom,1936
+House of Windsor,George VI,United Kingdom,1936-1952
+House of Windsor,Elizabeth II,United Kingdom,1952-
+House of Wessex,Edward the Elder,United Kingdom,899-925
+House of Wessex,Athelstan,United Kingdom,925-940
+House of Wessex,Edmund,United Kingdom,940-946
+House of Wessex,Edred,United Kingdom,946-955
+House of Wessex,Edwy,United Kingdom,955-959
+House of Wessex,Edgar,United Kingdom,959-975
+House of Wessex,Edward the Martyr,United Kingdom,975-978
+House of Wessex,Ethelred II the Unready,United Kingdom,978-1016
